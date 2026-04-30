@@ -109,6 +109,7 @@ In this time near all basic aircrafts are supported which has originally more th
 - Lokheed P38 Lightning
 - Douglas DC-3
 - Sukhoi Su-35 Flanker
+- Boeing b787-8
 - Aerospatiale France - British Aircraft Corporation Concorde
 - Zlin Z-50
 - Cessna 152
@@ -131,7 +132,6 @@ In this time near all basic aircrafts are supported which has originally more th
 - Boeing b757-200
 - Airbus a350-900
 - Bombardier Dash8-q400
-- Boeing b787-8
 - Boeing b777-9X
 - Ilyushin IL-76TD
 - Embraer ERJ 190
