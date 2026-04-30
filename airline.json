@@ -134,14 +134,6 @@
                 "Texture"
             ]
         },
-           "19": {
-            "name": "Boeing 787-8",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
-            ]
-        },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
@@ -160,6 +152,14 @@
         },
         "22": {
             "name": "Cessna 152",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+             "25": {
+            "name": "Boeing b787-8",
             "liveries": [
             ],
             "labels": [
