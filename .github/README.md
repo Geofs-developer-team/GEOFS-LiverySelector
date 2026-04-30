@@ -131,6 +131,7 @@ In this time near all basic aircrafts are supported which has originally more th
 - Boeing b757-200
 - Airbus a350-900
 - Bombardier Dash8-q400
+- Boeing b787-8
 - Boeing b777-9X
 - Ilyushin IL-76TD
 - Embraer ERJ 190
