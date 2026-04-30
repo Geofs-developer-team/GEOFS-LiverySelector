@@ -31,6 +31,16 @@ This method only needs to be done once. After that, the add-on should work autom
 > [!NOTE]
 > Once the script is saved in Tampermmonkey, it should automatically work every time GeoFS is launched.
 
+### Method 3. Bookmarklet
+(This could work on other devices such as Ipads and iphones)
+1. go to this repo "https://github.com/NVB9ALT/Realism-pack..git"
+2. press "bookmarklet.js" in the repo
+3. copy the text
+4. make a new bookmark
+5. give it a name like "Geofs livery"
+6. paste the bookmarklet.js in the description
+7. open geofs
+8. once fully loaded, press the bookmark
 ## How to use
 > Tutorial video by bilibili開飛機のzm
 > - [on youtube](https://www.youtube.com/watch?v=luASAu7ikYA)
