@@ -49,6 +49,16 @@
                 "Texture Right"
             ]
         },
+          "7": {
+            "name": "Boeing b787-8",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+                "Specular shader"
+                "normal map"
+            ]
+        },
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
@@ -152,14 +162,6 @@
         },
         "22": {
             "name": "Cessna 152",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
-            ]
-        },
-             "24": {
-            "name": "Boeing b787-8",
             "liveries": [
             ],
             "labels": [
